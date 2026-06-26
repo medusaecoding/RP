@@ -7,9 +7,9 @@ aerion{color:#8E248E;font-weight:bold;}
 .mod-titu{text-align:center;font-size:50px; font-family: "Poltawski Nowy", serif; letter-spacing:2px;height:75px;align-content: center;text-transform:uppercase;font-weight:bolder;color:#c9c9c9;text-shadow: 0px 2px 1px #280A28;}
 .mod-titu i{color:#8F778F;}
 hr.mod{margin:auto;width:70%; margin-top:-1%;}
-.mod-titu2{text-align:center;font-size:27px; font-family: "Inria Serif", serif; letter-spacing:5px;text-transform:uppercase;font-weight:lighter;color:#c9c9c9;}
+.mod-titu2{text-align:center;font-size:25px; font-family: "Inria Serif", serif; letter-spacing:5px;text-transform:uppercase;font-weight:lighter;color:#c9c9c9;}
 hr.mod{margin:auto;width:70%; margin-top:-2%;border-color:#c9c9c9;}
-.mod-alim{display:flex;justify-content:space-evenly; margin-top:1% !important;width:270px;margin:auto;margin-bottom:1% !important;}
+.mod-alim{display:flex;justify-content:space-evenly; margin-top:-1% !important;width:270px;margin:auto;margin-bottom:1% !important;}
 .mod-pic{width:125px;height:125px;object-fit:cover;border-radius:5px;box-shadow: 0px 1px 1px #121212;}
 .mod-inf{width:270px;text-align:justify;font-size:11px; font-family: "Inria Serif", serif; letter-spacing:3px;text-transform:uppercase;font-weight:lighter;color:#dadada;margin:auto;}
 
