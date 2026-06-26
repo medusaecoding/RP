@@ -3,7 +3,7 @@
 
 /* CSS */
 aerion{color:#8E248E;font-weight:bold;}
-.manofduty{margin:auto;width:500px;height:auto; border:1px solid transparent; border-radius:5px; background:linear-gradient(#231A1A,#231A1A) padding-box, linear-gradient(to bottom,#614561 0%,#280A28 100%) border-box;}
+.manofduty{margin:auto;width:500px;height:auto; border:1px solid transparent; border-radius:3px; background:linear-gradient(#231A1A,#231A1A) padding-box, linear-gradient(to bottom,#614561 0%,#280A28 100%) border-box;}
 .mod-titu{text-align:center;font-size:50px; font-family: "Poltawski Nowy", serif; letter-spacing:2px;height:75px;align-content: center;text-transform:uppercase;font-weight:bolder;color:#c9c9c9;text-shadow: 0px 2px 1px #280A28;}
 .mod-titu i{color:#8F778F;}
 hr.mod{margin:auto;width:70%; margin-top:-1%;}
