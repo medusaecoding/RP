@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&display=swap');
+.toall{display:flex;width: 400px;margin:auto;height: 245px;}
+.lleft{display:grid;} /*.lleft img{width:70px;height:70px;object-fit:cover;margin: 2px;margin: 5px;} */
+
+.imgbox{position:relative;width:70px;height:70px;margin:5px;background:#A47BC1;overflow:hidden;}
+.imgbox img{width:100%;height:100%;object-fit:cover;transition:opacity .3s ease;}
+.imgbox span{position:absolute;inset:0;display:flex; align-items:center;justify-content:center;color:#fff; font-family:'Bodoni Moda';font-size:11px;font-weight:bold;text-align:center; opacity:0;transition:opacity .3s ease;}
+.imgbox:hover img{opacity:0;}
+.imgbox:hover span{opacity:1;}
+
+.bloc2{width:320px; border-right:3px solid #A47BC1;padding-right:5px;}
+.taotit{background: linear-gradient(to right, #362054 0%, #A47BC1 100%);-webkit-background-clip: text;-webkit-text-fill-color:transparent;font-size:25px;letter-spacing:1px;font-family:'Bodoni Moda';font-weight:600;text-align:center; margin-top:3%;}
+.taosstit{color:#362054;font-family:'Bodoni Moda';text-align:center;font-weight:bold;font-size:14px; letter-spacing:1px;margin-top:-3%;}
+.taotxx{padding: 5px;color: #130724;background-color: #0a0a0a4a;text-align: justify;font-size: 12px;width: 90%;margin: 5% auto;line-height: 1.5;}
+.taotxx::first-letter{font-size: 25px;border: 1px solid #A47BC1;margin: 0px 5px 0px 0px;float: left;padding: 8px;border-radius: 3px;}
+.taotxx:hover::first-letter{color:#A47BC1;}
