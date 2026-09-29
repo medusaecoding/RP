@@ -16,3 +16,13 @@ hr.mod{margin:auto;width:70%; margin-top:-2%;border-color:#c9c9c9;}
 .mod-sep{height:40px; width:1px; background-color:#c9c9c9;margin:auto;}
 .mod-cont{margin:auto; width:90%; height:auto; padding:3%; text-align:justify;color:#ececec;}
 .mod-cont::first-letter{color:#8F778F; font-family:UnifrakturMaguntia;font-size:45px; padding-right:5px;margin: 0px 5px 0px 0px;float: left; padding: 2px;text-shadow: 1px 4px 1px #280A28;}
+
+/** CARNETS D'IVRESSE **/
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&display=swap');
+.carnetdelahonte{position:relative;margin:auto;background-image:url("https://i.servimg.com/u/f96/20/64/43/48/carnet10.png");width:620px;height:auto;min-height:500px;background-repeat:no-repeat;}
+.pages{position: relative;width: 100%;height: 500px;}
+.pleft {position: absolute;text-align:justify;top:40px;left:74px;width: 235px;overflow-y:auto;height: 420px;padding-right: 10px;font-family: "IM Fell English";font-size: 13px;color:#0d0d0d;}
+.pright {position:absolute;text-align:justify;top:40px; left:330px; width:250px;height: 420px;overflow-y:auto;padding-right: 10px;font-family: "IM Fell English";font-size: 13px;color:#0d0d0d;}
+ivre{filter: blur(0.50px);text-shadow: 3px 1px 0px #220e0e;font-style: italic;}
+rature{filter:blur(0.4px);text-shadow: 2px -1px 0px #000;font-style:italic;text-decoration: line-through;}
+date{text-transform:uppercase;padding-left:25px;}
