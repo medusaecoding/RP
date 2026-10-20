@@ -1,0 +1,11 @@
+
+/* prez*/
+.fiv-bck{width:100%;height:auto;min-height:200px;background-color:var(--neutralDark);}
+.fiv-bck h1{font-size:50px;font-family: 'Bierg';padding-top: 2%;}
+nn{font-style:oblique;color:var(--accentClrDark);}
+.imtop{width:120px;height:120px;object-fit:cover;border: 3px solid var(--neutral);}
+inf{text-transform: uppercase;letter-spacing: 2px;font-size: var(--little-size);color: var(--accentClrDark);font-weight: bold;}
+.txttop{text-align: justify;padding: 0 35px 0 35px;} 
+hr.hrtop{background-color:var(--accentClrDark);height:4px;border: none;width: 90%;margin-bottom: -1%;} 
+grn{color:#7dca7d;} blck{color:#ac5050;} 
+.fiv-bck h2{font-weight: 300;font-family: 'Bierg';font-size: 25px;color: var(--textColorAccent);}
